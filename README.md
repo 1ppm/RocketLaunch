@@ -1,6 +1,6 @@
 # [1PPM](http://1ppm.club) Rocket Launch
 
-The 1PPM [Hall of Fame](HallOfFame.md) contains many learning- and personal projects. That is perfectly fine. Publicly announcing your goals will help you to actually achieve them and you will be in good company! However, some developers may discover, maybe on their way, that an idea would profit from a bigger audience and decide to launch on [Producthunt](https://www.producthunt.com/), [Hacker News](https://news.ycombinator.com/), [Dribbble](https://dribbble.com/), [Kickstarter](https://www.kickstarter.com/)...(add platforms here).
+The 1PPM [Hall of Fame](https://github.com/1ppm/1ppmLog/blob/master/HallOfFame.md) contains many learning- and personal projects. That is perfectly fine. Publicly announcing your goals will help you to actually achieve them and you will be in good company! However, some developers may discover, maybe on their way, that an idea would profit from a bigger audience and decide to launch on [Producthunt](https://www.producthunt.com/), [Hacker News](https://news.ycombinator.com/), [Dribbble](https://dribbble.com/), [Kickstarter](https://www.kickstarter.com/)...(add platforms here).
 
 Therefore 1PPM set up the **1PPM Rocket Launch** program to support these launches in any way possible!
 
