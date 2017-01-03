@@ -1,10 +1,10 @@
 # [1PPM](http://1ppm.club) Rocket Launch
 
-The 1PPM [Hall of Fame](HallOfFame.md) contains many learning- and personal projects. That is perfectly fine. Publicly announcing your goals will help you to actually achieve them and you will be in good company! However, some developers may discover on their way, that an idea would profit from a bigger audience and decide to launch on [Producthunt](https://www.producthunt.com/), [Hacker News](https://news.ycombinator.com/), [Dribbble](https://dribbble.com/), [Kickstarter](https://www.kickstarter.com/)...(add platforms here).
+The 1PPM [Hall of Fame](HallOfFame.md) contains many learning- and personal projects. That is perfectly fine. Publicly announcing your goals will help you to actually achieve them and you will be in good company! However, some developers may discover, maybe on their way, that an idea would profit from a bigger audience and decide to launch on [Producthunt](https://www.producthunt.com/), [Hacker News](https://news.ycombinator.com/), [Dribbble](https://dribbble.com/), [Kickstarter](https://www.kickstarter.com/)...(add platforms here).
 
-Therefore 1PPM set up the **1PPM Rocket Launch** program to support these launches in any way possible.
+Therefore 1PPM set up the **1PPM Rocket Launch** program to support these launches in any way possible!
 
-The first two features of the 1PPM rocket launch program are the [Rocket Launch Resource Database](/resources) and the Rocket Launch Countdown.
+The first two features of the 1PPM Rocket Launch program are the [Rocket Launch Resource Database](/resources) and the Rocket Launch Countdown.
 
 # The Launch Countdown
 
@@ -42,4 +42,4 @@ Example:
 It is encouraged that the launching projects share their learnings with the community afterwards via the Rocket Launch [resources database](/resources). Experiences, traffic, conversion rates, sales funnel, lessons learned and in general any information that could be helpful. Examples can be found in the resources section.
 
 ## Just one more thing...
-If any 1PPM challengers are looking for ideas for learning/OSS projects, have a look at the Rocket Launch [issue tracker](/issues) for related projects.
+If any 1PPM challengers are looking for ideas for learning/OSS projects, have a look at the Rocket Launch [issue tracker](https://github.com/1ppm/RocketLaunch/issues) for related projects.
