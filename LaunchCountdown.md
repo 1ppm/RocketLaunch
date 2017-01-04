@@ -1,6 +1,6 @@
 # [1PPM](http://1ppm.club) Launch Control
 
-Add your new project launches to this list via pull request. For more details see README.md.
+Add your new project launches to this list via pull request. For more details on the submission process, see [HowTo](LaunchCountdown_HowTo.md)
 
 ---
 
