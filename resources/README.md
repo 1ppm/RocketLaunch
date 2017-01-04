@@ -1,6 +1,6 @@
 # The [1PPM](http://1ppm.club) Rocket Launch Resource Database
 
-A collection of resources for rapid prototyping, bulding SaaS, lean statups, growth hacking and in general information on how to launch your projects and experiments.
+A collection of resources in the field of side projects, rapid prototyping, bulding SaaS, lean statups and growth hacking and in general information on how to launch your projects and experiments.
 
 ## Chapters
 
