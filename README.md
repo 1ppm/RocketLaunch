@@ -4,38 +4,11 @@ The 1PPM [Hall of Fame](https://github.com/1ppm/1ppmLog/blob/master/HallOfFame.m
 
 Therefore 1PPM set up the **1PPM Rocket Launch** program to support these launches in any way possible!
 
-The first two features of the 1PPM Rocket Launch program are the [Rocket Launch Resource Database](/resources) and the Rocket Launch Countdown.
+The first two features of the 1PPM Rocket Launch program are the [Rocket Launch Resource Database](/resources) and the [Rocket Launch Countdown](https://github.com/1ppm/RocketLaunch/blob/master/LaunchCountdown.md).
 
-# The Launch Countdown
+ [Rocket Launch Resource Database](/resources) is a collection of collection of curated resources in the field of rapid prototyping, SaaS, lean statups, growth hacking and in general information on how to launch your projects and experiments.
 
-If you created a **great product** and you are planning to lauch it, let the 1PPM community know! Some members may be on that platform, decide to upvote or promote the launch on twitter!
-
-*Disclaimer: I'm not telling anybody what to do with that information ;)*
-
-
-
-That said:
-* Community: please have a look at the projects before the launch. The product should be well designed. It does not need a lot of features, but the exsiting ones should work perfectly (contact the author if you find bugs!).
-* No submissions of already launched, running products!
-
-## How to Use the Launch Countdown
-
-Add your projects to "LaunchCountdown.md", at the bottom of the table, on time, via pull request. The earlier you set a date, the less space for procrastination ;)
-
- To make sure that the specified quality criteria is met, there will be a review process. Questions can be discussed on Slack.
-
-The data in the table should be parseable, so that the (future) 1PPM-Bot can announce your project launch on **twitter** and **Slack** on time.
-
-Please provide the launch time in the format: YYYY-MM-DD hh:mm [UTC](https://www.timeanddate.com/time/aboututc.html)
-The description should be short and match the information on the platform.
-
-The feedback channel should allow the community to provide feedback and report bugs to the author.
-
-Example:
-
-|Time   |Project                                                |Description             |Platform| Twitter | Feedback Channel | Campaign Link |
-|--------|------------------------------------------------------|------------------------------------------------|---------|---------|---------|---------|
-|2016-11-30 15:00 | [parsecal](https://github.com/ggerhard/parsecal)     | An epic iCal to spreadsheet generator |[Producthunt](https://www.producthunt.com/) |@gerji| [1ppm@1ppm.club](mailto:1ppm.club)| https://www.producthunt.com/posts... |
+[Rocket Launch Countdown](https://github.com/1ppm/RocketLaunch/blob/master/LaunchCountdown.md) will allow to inform the 1PPM community about the launch of your best practice projects on popular plattforms.
 
 ## In return...
 
