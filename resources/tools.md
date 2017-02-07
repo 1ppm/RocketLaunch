@@ -11,5 +11,6 @@ A curated list of Startup and SaaS tools and directories
 - [libraries.io](https://libraries.io/) - Libraries.io monitors 2,085,443 open source libraries across 33 different package managers. You can discover new libraries to use in your software projects as well as be notified of new releases to keep your applications secure and up to date.
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - This repository offers a collection of services with great free tiers for developers on a budget.
 - [Ecommerce Stack](http://ecommerce-stack.com/) - Directory of tools in various ecommerce related topics
+- [Lean Stack](https://leanstack.com) - LEANSTACK is a collection of tools, content, and coaching resources that help you build your business - faster.
 
 
