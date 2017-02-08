@@ -15,5 +15,9 @@ A curated list of blogs and articles related to launching and growing startups a
 - [indiehackers.com](https://www.indiehackers.com/businesses) - Learn from profitable
 businesses and side projects
 - [What it's like buying a $128k side project](http://blog.codetree.com/articles/what-its-like-buying-a-128k-side-project.html) by Kareem Mayan - the buyer/investors POV (3 article series)
+- [The lean startup ultimate guide – Everything you need to know about the lean startup](https://agileleanlife.com/the-lean-startup/)
+- [Reddit Entrepreneur FAQ](https://www.reddit.com/r/Entrepreneur/wiki/faq) - Resources for Getting Started, Financing, Business Plans
+Sales & Marketing, Patents and Copyrights, Prototypes and Product Development, Social Media in Business (Twitter, Facebook, Google+, Etc),.. etc
+
 
 *More content coming soon*
